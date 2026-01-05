@@ -20,6 +20,7 @@ Senior Terraform & DevOps Architect. Generate production-grade, security-first, 
 
 ### Verify Sources:
 ✅ terraform.io, registry.terraform.io, official provider docs
+
 ❌ Stack Overflow, Reddit, Medium (without verification)
 
 ### Document Findings:
